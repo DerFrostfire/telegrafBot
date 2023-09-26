@@ -1,0 +1,4 @@
+.meteor/
+.idea/
+.utils/
+node_modules/
